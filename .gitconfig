@@ -1,10 +1,10 @@
 [user]
-    email = veiset@gmail.com
-    name = Vegard Veiset
+    email = kristen.anthonisen@gmail.com
+    name = Kristen Anthohnisen
 
 
 [github]
-    user = veiset
+    user = Anthonsien
 
 [color]
     ui = true
@@ -14,6 +14,8 @@
     interactive = auto
 
 [alias]  
+    pl = pull
+    ps = push
     ci = commit -am  
     co = checkout  
     st = !git branch && echo "" && git status  
