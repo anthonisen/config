@@ -14,7 +14,7 @@
     interactive = auto
 
 [alias]  
-    pp = pull && push
+    pp = pull && git push
     pl = pull
     ps = push
     ci = commit -am  
